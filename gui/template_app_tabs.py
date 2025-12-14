@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import ttk
 
-from kwk-tools.gui.widgets import *
+from kwk_tools.gui.widgets import *
 
 class Application:
     '''Main class to run application
